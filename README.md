@@ -104,7 +104,28 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-Add screenshots of your application here.
+## Screenshots
+
+### Home Page
+![Home](docs/home.png)
+
+### Upload PDF
+![Upload](docs/upload-pdf.png)
+
+### AI Analysis
+![AI Response](docs/ai-response.png)
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+### Download Report
+![Download](docs/download-report.png)
+
+### GitHub Repository
+![GitHub](docs/github.png)
+
+### Live Deployment
+![Deployment](docs/deployment.png)
 
 ---
 
