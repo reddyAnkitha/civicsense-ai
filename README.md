@@ -105,28 +105,40 @@ streamlit run app.py
 ## 📷 Screenshots
 
 ## Screenshots
+## 📸 Screenshots
 
-### Home Page
-![Home](docs/home.png)
+### 🏠 Home Page
+Displays the CivicSense AI landing page where users can upload a community report and begin analysis.
 
-### Upload PDF
-![Upload](docs/upload-pdf.png)
+![Home](docs/Stremlit.png)
 
-### AI Analysis
-![AI Response](docs/ai-response.png)
+---
 
-### Dashboard
-![Dashboard](docs/dashboard.png)
+### 📄 Upload Community Report
+Shows a PDF report uploaded successfully with a preview of the extracted content.
 
-### Download Report
-![Download](docs/download-report.png)
+![Upload PDF](docs/pdf%20upload.png)
 
-### GitHub Repository
-![GitHub](docs/github.png)
+---
 
-### Live Deployment
-![Deployment](docs/deployment.png)
+### ❓ Ask a Question
+Users can ask questions about the uploaded community report and receive AI-powered insights.
 
+![Ask Question](docs/Ask%20a%20question.png)
+
+---
+
+### 📊 Community Dashboard
+Displays Community Score, Traffic Risk, Air Quality, Public Transport status, and Priority Area.
+
+![Dashboard](docs/Dashboard.png)
+
+---
+
+### 📈 Community Indicators
+Visualizes community metrics using an interactive bar chart.
+
+![Chart](docs/chart.png)
 ---
 
 ## 👩‍💻 Author
