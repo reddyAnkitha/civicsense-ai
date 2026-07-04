@@ -104,8 +104,6 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-## Screenshots
-## 📸 Screenshots
 
 ### 🏠 Home Page
 Displays the CivicSense AI landing page where users can upload a community report and begin analysis.
