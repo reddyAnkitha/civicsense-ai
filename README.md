@@ -141,7 +141,7 @@ Visualizes community metrics using an interactive bar chart.
 
 ## 👩‍💻 Author
 
-**Reddy Ankitha**
+**Hanumanthureddygari Ankitha**
 
 GitHub:
 https://github.com/reddyAnkitha
